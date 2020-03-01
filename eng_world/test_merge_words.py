@@ -20,7 +20,7 @@ def merge_word(frame):
 
 if __name__== "__main__":
     path="./words/2000.csv"
-    path_res="./words/res_merge.csv"
+    path_res="./words/res.csv"
     frame=read_file(path)
     frame= merge_word(frame)
     frame.to_csv(path_res,index=False)

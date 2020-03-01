@@ -82,7 +82,7 @@ approve,одобрять (что-л.- of): утверждать,learning
 area,площадь: участок: пространство,done
 argue,спорить,learning
 argument,довод: аргумент,done
-arm,рука (от кисти до плеча),
+arm,рука (от кисти до плеча),done
 around,всюду: кругом: повсюду: вокруг,done
 arrange,приводить в порядок: расставлять,learning
 arrangement,размещение: расположение,learning
@@ -144,7 +144,7 @@ below,ниже: внизу: под,learning
 bend,сгибать (ся): гнуть (ся),learning
 beneath,под: ниже: внизу,
 benefit,выгода: прибыль,
-beside,рядом с: возле: около,
+beside,рядом с: возле: около,learning
 best,лучший: наилучший: лучше всего: больше всего,done
 bet,пари: держать пари,learning
 better,лучший: наилучший: лучше всего: больше всего,done
@@ -205,7 +205,7 @@ brother,брат,done
 brown,коричневый: бурый,
 brush,щетка:чистить щеткой: причесывать,learning
 build,строить,done
-building,здание: сооружение,
+building,здание: сооружение,done
 bunch,связка: пучек,learning
 burn,гореть: пылать,learning
 burst,лопаться: взрываться,learning
@@ -590,7 +590,7 @@ fill,667. наполнять (ся),learning
 film,фильм,done
 final,завершающий: заключительный,
 finally,наконец: в конце концов,
-find,находить,
+find,находить,done
 fine,превосходный: тонкий,done
 finger,палец (на руке),done
 finish,заканчивать: завершать,done
@@ -749,7 +749,7 @@ hurt,ранить: обижать: раненый,learning
 I,я,done
 idea,идея,done
 identify,опознавать: идентифицировать,
-if,если,
+if,если,done
 ignore,игнорировать: пренебрегать,done
 ill,больной,done
 illness,болезнь,learning
@@ -777,7 +777,7 @@ inform,сообщать: информировать,done
 information,информация,done
 injury,вред: рана,
 innocent,невинный: непорочный,done
-inquire,осведомляться: узнавать,
+inquire,осведомляться: узнавать,learning
 inside,внутренний: внутри,done
 insist,настаивать: утверждать,
 instant,мгновенный: растворимый,learning
@@ -1313,7 +1313,7 @@ sea,море,done
 search,поиск: розыск: искать: разыскивать,done
 season,сезон: время года,done
 seat,сиденье: место,done
-second,второй: секнда,
+second,второй: секнда,done
 secret,секрет: тайна: секретный: тайный,done
 section,секция,done
 see,видеть,done
@@ -1497,7 +1497,7 @@ sweet,сладкий,learning
 swim,плавать,done
 swimming,плавание,done
 swing,качать (ся),learning
-switch,выключатель: переключать,
+switch,выключатель: переключать,done
 system,система,done
 table,стол,
 take,брать,done
@@ -1601,7 +1601,7 @@ treatment,лечение:обращение,
 trial,судебный процесс: суд,
 trick,обман: хитрость: обманывать: надувать,learning
 trip,путешествие: поездка: спотыкаться: ставить подножку,
-trouble,беспокойство: неприятность,
+trouble,беспокойство: неприятность,learning
 trousers,брюки: штаны,
 TRUE,верный: правильный,done
 trust,верить: доверять (ся): вера: доверие,learning
