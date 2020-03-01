@@ -1,7 +1,9 @@
 import pandas as pd
 import random as rm
 import numpy as np
+
 debug=False
+
 
 def read_file(path):
     df=pd.read_csv(path,  usecols=["eng_word","rus_word", "status"])
